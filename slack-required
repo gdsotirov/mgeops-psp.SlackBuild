@@ -1,0 +1,6 @@
+glibmm >= 2.4.4
+gtkmm >= 2.4.5
+nut >= 2.0.1
+pango >= 1.4.1
+sigc++ >= 2.0.3
+libgksuui >= 1.0.3
