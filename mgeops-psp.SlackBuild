@@ -8,7 +8,7 @@
 
 NAME=mgeups-psp
 VERSION=3.0.1
-BUILD=2
+BUILD=1
 
 cd $TMP
 tar -zxvf $CWD/$NAME-$VERSION.tar.gz
