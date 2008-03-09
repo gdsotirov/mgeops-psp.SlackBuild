@@ -1,13 +1,13 @@
-mgeups-psp: MGE UPS Personal Solution-Pac
-mgeups-psp:
-mgeups-psp: MGE's Personal Solution-Pac for Linux is the power management
-mgeups-psp: software of choice for SOHO and small business users looking for
-mgeups-psp: an easy to use, yet fully-featured solution to enhance the power
-mgeups-psp: protection provided by their MGE UPS.
-mgeups-psp: Personal Solution-Pac for Linux gives the user a real time view of
-mgeups-psp: its on-site power quality and the ability to set-up automatic
-mgeups-psp: actions in case of a power crisis, like the automatic shutdown of
-mgeups-psp: the PC or server at the end of the battery runtime or sending an
-mgeups-psp: alert to notify any power problem.
-mgeups-psp:
-mgeups-psp: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+mgeops-psp: MGE OPS Personal Solution-Pac
+mgeops-psp:
+mgeops-psp: MGE's Personal Solution-Pac for Linux is the power management
+mgeops-psp: software of choice for SOHO and small business users looking for
+mgeops-psp: an easy to use, yet fully-featured solution to enhance the power
+mgeops-psp: protection provided by their MGE UPS.
+mgeops-psp: Personal Solution-Pac for Linux gives the user a real time view of
+mgeops-psp: its on-site power quality and the ability to set-up automatic
+mgeops-psp: actions in case of a power crisis, like the automatic shutdown of
+mgeops-psp: the PC or server at the end of the battery runtime or sending an
+mgeops-psp: alert to notify any power problem.
+mgeops-psp:
+mgeops-psp: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
