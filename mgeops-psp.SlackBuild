@@ -7,13 +7,13 @@
 . /etc/slack-package.conf
 
 NAME=mgeops-psp
-VERSION=3.0.6
+VERSION=3.0.7
 BUILD=1
 
 TMP=${TMP:-/tmp}
 
 cd $TMP
-tar -zxvf $CWD/$NAME-$VERSION.tar.gz
+tar -jxvf $CWD/$NAME-$VERSION.tar.bz2
 SRC=$TMP/$NAME-$VERSION
 cd $SRC
 fix_source
