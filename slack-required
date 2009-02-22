@@ -1,5 +1,5 @@
-glibmm >= 2.12.10
+glibmm >= 2.16.1
 gtkmm >= 2.10.11
-nut >= 2.2.1
-pango >= 1.16.4
+nut >= 2.4.1
+pango >= 1.20.5
 sigc++ >= 2.0.18
