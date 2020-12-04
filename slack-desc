@@ -10,4 +10,4 @@ mgeops-psp: actions in case of a power crisis, like the automatic shutdown of
 mgeops-psp: the PC or server at the end of the battery runtime or sending an
 mgeops-psp: alert to notify any power problem.
 mgeops-psp:
-mgeops-psp: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+mgeops-psp: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
